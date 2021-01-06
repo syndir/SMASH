@@ -1,0 +1,5 @@
+*.o
+build/
+bin/
+hw3.pdf
+hw3-grading-criteria.pdf
